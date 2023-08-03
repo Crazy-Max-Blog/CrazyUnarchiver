@@ -1,2 +1,3 @@
 # CrazyUnarchiver
-Unarchiver
+Просто переместите файл unarchiver.py в папку с архивами и запустите его.
+Я использую его для Arduino - библиотек: скачиваю их с github, перемещаю в папку библиотек, и запускаю unarchiver.py.
